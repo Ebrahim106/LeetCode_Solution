@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0196-delete-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
