@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
