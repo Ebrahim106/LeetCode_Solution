@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/2024-calculate-special-bonus) |
+| [2057-count-salary-categories](https://github.com/Ebrahim106/LeetCode_Solution/tree/master/2057-count-salary-categories) |
 ## Hash Table
 |  |
 | ------- |
